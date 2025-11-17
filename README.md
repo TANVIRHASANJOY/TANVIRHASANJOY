@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Tanvir Hasan Joy 👋  
+### MERN Stack Developer | Frontend Enthusiast
 
+- 🌱 Learning: React, Node.js, MongoDB  
+- 🔭 Working on MERN projects & reservation system  
+- 💬 Ask me about: JavaScript, React, Tailwind, Node.js  
+- 📫 Email: tanvirhasanjoy18@gmail.com  
 
-**TANVIRHASANJOY/TANVIRHASANJOY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack  
+**Frontend:** HTML, CSS, JS, React, Tailwind  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, VS Code  
 
-Here are some ideas to get you started:
+### ⭐ Projects  
+- Resort Reservation System (MERN)  
+- Facebook Clone  
+- Vocabulary Learning Web App  
 
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+Thanks for visiting! ⭐
