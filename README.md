@@ -3,7 +3,7 @@
 
 <p align="left">
  <a href="mailto:tanvirhasanjoy18@gmail.com"><img src="https://img.shields.io/badge/Email-tanvirhasanjoy18%40gmail.com-blue?style=flat-square&logo=gmail"></a>
- <a href="https://linkedin.com/in/tanvirhasanjoy"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
+ <a href="https://www.linkedin.com/in/tanvirhasanjoy18/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
@@ -33,16 +33,19 @@ I am a passionate **MERN Stack Developer** focused on building clean, scalable, 
 
 ### ⭐ Featured Projects
 
-#### 📦 [Pro-Fast | Online Delivery System](https://github.com/TANVIRHASANJOY)
-A comprehensive parcel management system featuring user dashboards, real-time booking, Stripe payment integration, and delivery man assignments.
-- **Tech:** React, Tailwind, Node.js, MongoDB, Stripe.
+#### 💼 [Career Code | Job Portal](https://career-code-33e1a.web.app/)
+A full-stack job searching platform where users can post jobs, apply with resumes, and manage career profiles.
+- **Key Features:** Firebase Authentication, Real-time application tracking, Search & Filters.
+- **Tech:** React, Tailwind CSS, Node.js, MongoDB, Firebase.
 
-#### 💼 [Job Portal | Career Management](https://github.com/TANVIRHASANJOY)
-A full-stack job searching platform where users can post jobs, apply with resumes, and manage career profiles seamlessly.
-- **Tech:** MERN Stack, Firebase Auth, React Query.
+#### 📦 [Pro-Fast | Online Delivery System](https://github.com/TANVIRHASANJOY)
+A comprehensive logistics system featuring user dashboards, delivery man assignments, and Stripe payment integration.
+- **Key Features:** Stripe Payment Gateway, Role-based Dashboards (Admin, Delivery Man, User), Parcel Tracking.
+- **Tech:** React, Node.js, Express, MongoDB, Stripe API.
 
 #### 🏨 [Resort Reservation System](https://github.com/TANVIRHASANJOY)
 Full-stack application for booking resorts with real-time availability and secure payment processing.
+- **Tech:** MERN Stack, React Query, DaisyUI.
 
 ---
 
