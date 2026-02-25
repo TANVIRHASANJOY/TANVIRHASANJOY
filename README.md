@@ -50,8 +50,11 @@ Full-stack application for booking resorts with real-time availability and secur
 ---
 
 ### 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=TANVIRHASANJOY&show_icons=true&theme=tokyonight" alt="Tanvir GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=TANVIRHASANJOY&show_icons=true&theme=tokyonight&count_private=true" alt="Tanvir GitHub Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANVIRHASANJOY&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
