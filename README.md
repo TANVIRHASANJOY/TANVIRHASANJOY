@@ -11,40 +11,60 @@
 ### 🚀 About Me
 I am a passionate **MERN Stack Developer** focused on building clean, scalable, and user-friendly web applications. I love solving complex problems and turning ideas into reality through code.
 
-- 🔭 **Currently working on:** Advanced MERN Projects & Logistics Systems.
-- 🌱 **Learning:** Next.js, Redux, and Backend Security.
-- 💬 **Ask me about:** React, Tailwind CSS, Node.js, & Express.
-- ⚡ **Fun Fact:** I love building systems that simplify daily life!
+- 🔭 Currently working on: Advanced MERN Projects & Logistics Systems.
+- 🌱 Learning: Next.js, Redux, and Backend Security.
+- 💬 Ask me about: React, Tailwind CSS, Node.js, Express.
+- ⚡ Fun Fact: I love building systems that simplify daily life!
 
 ---
 
 ### 🛠 Tech Stack
 
 **Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+HTML, CSS, JavaScript, React, Tailwind CSS
 
 **Backend & Database**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+Node.js, Express.js, MongoDB
 
-**Tools & Others**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Tools**
+Git, GitHub, VS Code, Firebase, Stripe, TanStack Query
 
 ---
 
 ### ⭐ Featured Projects
 
-#### 💼 [Career Code | Job Portal](https://career-code-33e1a.web.app/)
+#### 💼 Career Code | Job Portal
+https://career-code-33e1a.web.app/
+
 A full-stack job searching platform where users can post jobs, apply with resumes, and manage career profiles.
-- **Key Features:** Firebase Authentication, Real-time application tracking, Search & Filters.
-- **Tech:** React, Tailwind CSS, Node.js, MongoDB, Firebase.
 
-#### 📦 [Pro-Fast | Online Delivery System](https://github.com/TANVIRHASANJOY)
-A comprehensive logistics system featuring user dashboards, delivery man assignments, and Stripe payment integration.
-- **Key Features:** Stripe Payment Gateway, Role-based Dashboards (Admin, Delivery Man, User), Parcel Tracking.
-- **Tech:** React, Node.js, Express, MongoDB, Stripe API.
+Tech: React, Tailwind CSS, Node.js, MongoDB, Firebase
 
-#### 🏨 [Resort Reservation System](https://github.com/TANVIRHASANJOY)
-Full-stack application for booking resorts with real-time availability and secure payment processing.
-- **Tech:** MERN Stack, React Query, DaisyUI.
+---
 
-📫 **Let's Connect:** [tanvirhasanjoy18@gmail.com](mailto:tanvirhasanjoy18@gmail.com)
+#### 📦 Pro-Fast | Online Delivery System
+https://pro-fast-87db5.web.app/
+
+A logistics and parcel delivery management system where users can send parcels, track delivery status, and manage shipments.
+
+Features:
+- Firebase Authentication
+- Role-based Dashboard (Admin, Delivery Man, User)
+- Parcel Tracking
+- Stripe Payment Integration
+
+Tech:
+React, Tailwind CSS, Node.js, Express.js, MongoDB, Stripe, TanStack Query, Firebase Auth
+
+---
+
+#### 🏨 Resort Reservation System
+https://github.com/TANVIRHASANJOY
+
+A full-stack resort booking system with real-time availability and booking management.
+
+Tech: MERN Stack, React Query, DaisyUI
+
+---
+
+📫 Contact: tanvirhasanjoy18@gmail.com
